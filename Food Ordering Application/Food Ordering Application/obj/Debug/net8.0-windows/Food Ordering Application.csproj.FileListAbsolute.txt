@@ -1,0 +1,16 @@
+D:\C#\Food Ordering Application\Food Ordering Application\bin\Debug\net8.0-windows\Food Ordering Application.exe
+D:\C#\Food Ordering Application\Food Ordering Application\bin\Debug\net8.0-windows\Food Ordering Application.deps.json
+D:\C#\Food Ordering Application\Food Ordering Application\bin\Debug\net8.0-windows\Food Ordering Application.runtimeconfig.json
+D:\C#\Food Ordering Application\Food Ordering Application\bin\Debug\net8.0-windows\Food Ordering Application.dll
+D:\C#\Food Ordering Application\Food Ordering Application\bin\Debug\net8.0-windows\Food Ordering Application.pdb
+D:\C#\Food Ordering Application\Food Ordering Application\obj\Debug\net8.0-windows\Food_Ordering_Application.radlarge.resources
+D:\C#\Food Ordering Application\Food Ordering Application\obj\Debug\net8.0-windows\Food Ordering Application.csproj.GenerateResource.cache
+D:\C#\Food Ordering Application\Food Ordering Application\obj\Debug\net8.0-windows\Food Ordering Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Food Ordering Application\Food Ordering Application\obj\Debug\net8.0-windows\Food Ordering Application.AssemblyInfoInputs.cache
+D:\C#\Food Ordering Application\Food Ordering Application\obj\Debug\net8.0-windows\Food Ordering Application.AssemblyInfo.cs
+D:\C#\Food Ordering Application\Food Ordering Application\obj\Debug\net8.0-windows\Food Ordering Application.csproj.CoreCompileInputs.cache
+D:\C#\Food Ordering Application\Food Ordering Application\obj\Debug\net8.0-windows\Food Ordering Application.dll
+D:\C#\Food Ordering Application\Food Ordering Application\obj\Debug\net8.0-windows\refint\Food Ordering Application.dll
+D:\C#\Food Ordering Application\Food Ordering Application\obj\Debug\net8.0-windows\Food Ordering Application.pdb
+D:\C#\Food Ordering Application\Food Ordering Application\obj\Debug\net8.0-windows\Food Ordering Application.genruntimeconfig.cache
+D:\C#\Food Ordering Application\Food Ordering Application\obj\Debug\net8.0-windows\ref\Food Ordering Application.dll
